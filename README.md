@@ -1,4 +1,7 @@
 helloWorld
 ==========
 
-HelloWorld-testi
+//HelloWorld-testi
+
+
+alert("Hello World!);
